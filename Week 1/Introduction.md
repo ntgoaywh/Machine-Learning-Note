@@ -13,7 +13,7 @@
 
 - Applications can't program by hand(不能通过手工编程实现)
 
-      E.g., Autonomous helicopter, handwriting recognition(手写识别), most of Natural Language Processing(NLP)（自然语言处理）, Computer Vision(计算机视觉). 
+      E.g., Autonomous helicopter, handwriting recognition(手写识别), most of Natural Language Processing(NLP)（自然语言处理),Computer Vision(计算机视觉). 
 
 - Self-customizing programs
 
@@ -55,7 +55,7 @@ We could turn this example into a classification problem by instead making our o
 
 Exercise
 
-![](D:\Downloads\example1.png)
+![1](https://github.com/ntgoaywh/Machine-Learning-Note/blob/main/Week%201/image/example1.png?raw=true)
 
 ### Unsupervised Learning
 
@@ -86,7 +86,7 @@ Just use the following code
 
  
 
-![](D:\Downloads\example2.png)
+![2](https://github.com/ntgoaywh/Machine-Learning-Note/blob/main/Week%201/image/example2.png?raw=true)
 
 Summary
 
