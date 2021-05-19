@@ -7,21 +7,19 @@
 
 - Database mining
 
-       Large datasets from growth of automation/web
-
-       E.g., Web click data(网络点击数据), medical records, biology, engineering
+      Large datasets from growth of automation/web
+      
+      E.g., Web click data(网络点击数据), medical records, biology, engineering
 
 - Applications can't program by hand(不能通过手工编程实现)
 
-       E.g., Autonomous helicopter, handwriting recognition(手写识别), most of Natural Language Processing(NLP)（自然语言处理）, Computer Vision(计算机视觉). 
+      E.g., Autonomous helicopter, handwriting recognition(手写识别), most of Natural Language Processing(NLP)（自然语言处理）, Computer Vision(计算机视觉). 
 
 - Self-customizing programs
 
-        E.g., Amazon Netflix product recommendations
+      E.g., Amazon Netflix product recommendations
 
 - Understanding human learning(brain, real AI)
-
-[What is Machine Learning](https://www.notion.so/What-is-Machine-Learning-de50f4597ece49d0bbe2e872bedbcf50)
 
 Machine Learning definition
 
@@ -38,8 +36,6 @@ Machine learning algorithms:
 ### Supervised Learning
 
 ---
-
-[https://d18ky98rnyall9.cloudfront.net/01.3-V2-Introduction-SupervisedLearning.d4483f80b22b11e4aca907c8d9623f2b/full/540p/index.webm?Expires=1619913600&Signature=I~M3nrVWpvQsG3sWfEowAbkSi71Upazom271NC1Adwpjsz2qyqqbsF6lzyp-yZsn~5G1eywlvpCNm1WHJrxH5LrMkqv4t4Qta3-Y93G4BLXN9cD9S0vW6jNvYpiT6-ZanfNMI~k0DnI1VAGdIWanbBnuhn0mhqRNwg7Fdt5nSBM_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A](https://d18ky98rnyall9.cloudfront.net/01.3-V2-Introduction-SupervisedLearning.d4483f80b22b11e4aca907c8d9623f2b/full/540p/index.webm?Expires=1619913600&Signature=I~M3nrVWpvQsG3sWfEowAbkSi71Upazom271NC1Adwpjsz2qyqqbsF6lzyp-yZsn~5G1eywlvpCNm1WHJrxH5LrMkqv4t4Qta3-Y93G4BLXN9cD9S0vW6jNvYpiT6-ZanfNMI~k0DnI1VAGdIWanbBnuhn0mhqRNwg7Fdt5nSBM_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
 
 In supervised learning, we are given a data set and already know what our correct output should look like, having the idea that there is a relationship between the input and the output.
 
@@ -59,7 +55,7 @@ We could turn this example into a classification problem by instead making our o
 
 Exercise
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/68dff0dc-4189-4551-9b35-529ad52eff22/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/68dff0dc-4189-4551-9b35-529ad52eff22/Untitled.png)
+![](D:\Downloads\example1.png)
 
 ### Unsupervised Learning
 
@@ -86,11 +82,11 @@ Just use the following code
 [W,s,v]=svd((repmat(sum(x.*x,1),size(x,1),1).*x)*x'
 ```
 
-[GNU Octave](https://www.notion.so/GNU-Octave-4fd680718281426da1483193d14630f1)
+[GNU Octave](Machine%20Learning%2032d0b3519cd14f3a9e8cfb792fd6287f/GNU%20Octave%204fd680718281426da1483193d14630f1.md)
 
  
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fe58f53b-4fbc-4acf-bdc4-57fafd294ec5/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fe58f53b-4fbc-4acf-bdc4-57fafd294ec5/Untitled.png)
+![](D:\Downloads\example2.png)
 
 Summary
 
