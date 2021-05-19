@@ -82,7 +82,7 @@ Just use the following code
 [W,s,v]=svd((repmat(sum(x.*x,1),size(x,1),1).*x)*x'
 ```
 
-[GNU Octave](Machine%20Learning%2032d0b3519cd14f3a9e8cfb792fd6287f/GNU%20Octave%204fd680718281426da1483193d14630f1.md)
+[GNU Octave](https://zh.wikipedia.org/wiki/GNU_Octave)
 
  
 
